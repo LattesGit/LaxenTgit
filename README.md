@@ -99,7 +99,7 @@ Currently building a combined offensive-security toolkit and exploring AI-assist
     <img src="https://img.shields.io/badge/GitHub-LaxenTgit-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:latentbset@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
   </a>
 </div>
