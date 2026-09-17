@@ -43,6 +43,7 @@ Currently building a combined offensive-security toolkit and exploring AI-assist
 - **[lat-finder](https://github.com/LaxenTgit/lat-finder)** — Fast, async subdomain discovery
 - **[shenwin](https://github.com/LaxenTgit/shenwin)** — Username intelligence across 500+ platforms
 - **[LanScope](https://github.com/LaxenTgit/LanScope)** — Multithreaded LAN scanner
+- **[Lpacket](https://github.com/LattesGit/LPacket)** — Lightweight terminal based network packet analyzer built with Python and Scapy
 - **[webrecon](https://github.com/LaxenTgit/webrecon)** — Web reconnaissance tool
 - **[password-analyzer](https://github.com/LaxenTgit/password-analyzer)** — Password strength analysis
 - **[HX-Hash-Cracker](https://github.com/LaxenTgit/HX-Hash-Cracker)** — Fast hash-cracking utility
@@ -52,6 +53,7 @@ Currently building a combined offensive-security toolkit and exploring AI-assist
 - **[hx-history](https://github.com/LaxenTgit/hx-history)** — Terminal history viewer for Kali Linux
 - **[server-alive](https://github.com/LaxenTgit/server-alive)** — Service uptime checker
 - **latentSC** *(in development)* — Combined pentest toolkit
+- **Lwatch** *(updating* — Bleeh
 - **SEA AI** *(in development)* — AI assistant with integrated security modules
 - **FastOS** *(private)* — System information gathering tool
 
