@@ -120,7 +120,7 @@ Contributed to two independent security-focused projects as both a developer and
     <img src="https://img.shields.io/badge/GitHub-LaxenTgit-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff"/>
   </a>
   &nbsp;
-  <a href="mailto:miracakkus836@gmail.com">
+  <a href="mailto:[REDACTED]">
     <img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00d4ff"/>
   </a>
 </div>
